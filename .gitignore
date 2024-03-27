@@ -16,3 +16,9 @@ _minted*/
 *.snm
 *.vrb
 build/
+paper.pdf
+*.fdb_latexmk
+*.fls
+*.xmpdata
+*.xmpi
+*.abs
